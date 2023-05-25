@@ -15,3 +15,6 @@ We get this >>> \
 Go to the layer bar and add the spectrogram:\
 ![Screenshot](https://github.com/W4W1R3/CTF-CHRONICLES/blob/main/SONIC-VISUALIZER/Screenshot_2023-05-25_13_32_47.png)
 
+
+
+# FLAG
