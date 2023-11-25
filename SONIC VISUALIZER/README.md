@@ -19,4 +19,4 @@ Go to the layer bar and add the spectrogram:\
 
 # FLAG
 
-`flag you_are_victorious`
+`flag you_are_victorious!`
